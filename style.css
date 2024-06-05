@@ -1,0 +1,35 @@
+body {
+    background-color:#245D5A;
+    height: 1024px;
+}
+h1{
+    background-color:#311313;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    padding: 24px 17px;
+    text-align: center;
+    width: 636px;
+    margin: 0 auto;
+    margin-top: 22px;
+}    
+.b{
+    border: 10px solid #FF0606;
+    background-color: black;
+    padding: 45px 54px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 55px  ;
+}
+.a{
+    background-color: #1FE8B7;
+    padding: 54px 40px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+}
+.c{
+    margin-top: 30px;
+}
